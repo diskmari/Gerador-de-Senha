@@ -24,12 +24,15 @@
         src: url('Pokemon Hollow.ttf') format('truetype');
     }
 
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
     * {
-        font-family: Arial, Helvetica, sans-serif;   
+        font-family: 'Roboto', sans-serif;
         width: 100%;
         margin: 0 auto;
         box-sizing: border-box;
     }
+    
     
     body {
         background: linear-gradient(300deg, #653eaf, #4a3780, #2a1672);
